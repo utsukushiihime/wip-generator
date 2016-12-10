@@ -1,0 +1,4 @@
+.idea
+dev/.tmp
+dev/bower_components
+dev/node_modules
